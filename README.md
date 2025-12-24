@@ -21,8 +21,8 @@
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
 
 ## 🏆 Awards & Recognition
-- **Winner of Samsung Innovation Campus 2025** with *Track Analyzer*, awarded as the most innovative project in "Sport & Tech".
-[![Read the Article](https://img.shields.io/badge/Read%20the%20Article-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]([PUT_ARTICLE_LINK_HERE](https://news.samsung.com/it/sport-e-tecnologia-protagonisti-allunipi-per-la-chiusura-della-quinta-edizione-del-samsung-innovation-campus))
+**Winner of Samsung Innovation Campus 2025** with *Track Analyzer*, awarded as the most innovative project in "Sport & Tech".
+[![Read the Article](https://img.shields.io/badge/Read%20the%20Article-FFD400?style=for-the-badge&logo=read-the-docs&logoColor=000000)](https://news.samsung.com/it/sport-e-tecnologia-protagonisti-allunipi-per-la-chiusura-della-quinta-edizione-del-samsung-innovation-campus)
 
 ## 🌐 Social  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzogallii)
