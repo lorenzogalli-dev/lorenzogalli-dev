@@ -12,13 +12,16 @@
 
 #### University of Pisa 🇮🇹
 - **Bachelor in Informatics** (2023 – )  
-  - 🎓 Informatics
+  - 🎓 Informatics  
   - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
 #### Università della Svizzera italiana (USI), Lugano 🇨🇭
 - **Bachelor in Informatics** (2024 - 2025)  
-  - 🎓 Informatics
+  - 🎓 Informatics  
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
+
+## 🏆 Awards & Recognition
+- **Winner of Samsung Innovation Campus 2025** with *Track Analyzer*, awarded as the most innovative project in "Sport & Tech".
 
 ### 🌐 Social  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzogallii)
