@@ -11,7 +11,7 @@
 ## 🎓 Academic Journey
 
 #### University of Pisa 🇮🇹
-- **Bachelor in Informatics** (2023 – )  
+- **Bachelor in Informatics** (2023 – 2026)  
   - 🎓 Informatics  
   - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
