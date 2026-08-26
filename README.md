@@ -1,18 +1,24 @@
 ## Hi, I am Lorenzo! 🏃
 
-🎓 I am an **Informatics student** at the **University of Pisa**, recently on exchange at the **University of Italian Switzerland (USI)**. As a Track and Field athlete, athletics official and sports photographer, I combine my passion for sports with technology to enhance athletes performance and fans experience.
+🎓 I'm an MSc student in Sports Technology at KTH Royal Institute of Technology, one of only 36 students admitted to a program unique in Europe for combining sports science, health, computer science, and engineering. I obtained my Bachelor's degree in Computer Science at the University of Pisa in 2 years and 10 months, after spending an exchange year at the University of Italian Switzerland (USI) in Lugano.
 
-🏃 I am part of the **Dual Career** program at the University of Pisa, through which I hold the status of **Student-Athlete**.
 
-📊 I am particularly interested in exploring the field of **Sport Anlytics**, meaning data science and data analysis applied to sports. I want to understand how data can be used to optimize athletic performance, prevent injuries, and enhance decision-making for both athletes and coaches.
+🏃 I was part of the **Dual Career** program at the University of Pisa, through which I hold the status of **Student-Athlete**. As an athlete, I want to make sport my future career — combining athletic experience with technology, data science, and biomechanics to enhance both athletic performance and the fan experience. I'm particularly interested in how data can be used to optimize performance, prevent injuries, and support decision-making for athletes and coaches. Outside of research and code, I work as an athletics official and sports photographer, and I build websites, apps, and digital content for clubs and athletes.
 
-🚀 By integrating these advanced analytical tools, I aim to contribute to the next generation of performance-driven solutions in the sports industry. I'm passionate about creating sports-focused digital content, while also providing digital solutions such as mobile apps to improve clubs and athletes experience.
+🏆 In 2025, I was awarded 1st place at the Samsung Innovation Campus for the most innovative project in Sports & Technology. I led the development of Track Analyzer, a mobile app based on an AI pipeline for biomechanics analysis — designed to be accurate, fast, and accessible to every coach and athlete, not just elite programs. The project later evolved into Kinepose, and I was invited to speak about it at conferences such as "The Impact of Artificial Intelligence on Sports Activity."
+
+🚀 My Bachelor's thesis continued in this direction, applying optimization algorithms to sports centres. Titled "Resource Scheduling Optimization for Sports Centres: A CP-SAT Based Approach," it grew out of my internship at Kode, where I developed sportslot.it — software that helps elite sports centres build weekly schedules, optimizing resource allocation to maximize user satisfaction and minimize facility waste.
 
 ## 🎓 Academic Journey
 
+#### KTH Royal Institute of Technology 🇸🇪
+- **M.Sc. in Sports Technology** (2026 – Ongoing)  
+  - 🎓 Sports Technology
+  - 🚀 One of 36 students admitted to the programme, the only one in Europe combining sports, health, engineering and computer science, founded as an interdisciplinary collaboration between KTH and GIH (Swedish School of Sport and Health Sciences).
+
 #### University of Pisa 🇮🇹
-- **Bachelor in Informatics** (2023 – 2026)  
-  - 🎓 Informatics  
+- **Bachelor in Computer Science** (2023 – 2026)  
+  - 🎓 Computer Science
   - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
 #### Università della Svizzera italiana (USI), Lugano 🇨🇭
