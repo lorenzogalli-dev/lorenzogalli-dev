@@ -11,18 +11,18 @@
 
 ## 🎓 Academic Journey
 
-#### KTH Royal Institute of Technology 🇸🇪
+#### KTH Royal Institute of Technology, Stockholm 🇸🇪
 - **M.Sc. in Sports Technology** (2026 – Ongoing)  
   - 🎓 Sports Technology
-  - 🚀 One of 36 students admitted to the programme, the only one in Europe combining sports, health, engineering and computer science, founded as an interdisciplinary collaboration between KTH and GIH (Swedish School of Sport and Health Sciences).
+  - 🚀 The programme is an interdisciplinary collaboration between KTH and the Swedish School of Sport and Health Sciences (GIH) and provides a unique understanding of the areas of sports science and engineering.
 
-#### University of Pisa 🇮🇹
-- **Bachelor in Computer Science** (2023 – 2026)  
+#### Università di Pisa, Pisa 🇮🇹
+- **B.Sc. in Computer Science** (2023 – 2026)  
   - 🎓 Computer Science
   - 🏃 Dual Career [Student-Athlete](https://www.unipi.it/didattica/iscrizioni/immatricolazioni-e-iscrizioni/studente-atleta-percorso-formativo-di-dual-career/)
 
 #### Università della Svizzera italiana (USI), Lugano 🇨🇭
-- **Bachelor in Informatics** (2024 - 2025)  
+- **B.Sc. in Informatics** (2024 - 2025)  
   - 🎓 Informatics  
   - 🏅 Swiss European Mobility Programme (SEMP) Scholarship  
 
